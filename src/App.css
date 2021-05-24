@@ -43,6 +43,7 @@ footer {
   text-align: center;
   padding: 5px;
   border-style: solid;
+  border-radius: 10px;
 }
 
 footer > a {
@@ -75,5 +76,6 @@ body {
   border-style: solid;
   padding: 15px;
   width: 50%;
+  border-radius: 10px;
   
 }
